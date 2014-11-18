@@ -2,7 +2,7 @@
 using System.Collections;
 using SerialCommunication;
 
-public class ButtonSendCommands :MonoBehaviour {
+public class ToggleButtonCommands :MonoBehaviour {
 
     
     private bool state;
